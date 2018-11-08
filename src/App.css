@@ -1,0 +1,59 @@
+body,
+html {
+  height: 100%;
+  margin: 20px;
+  color: rgb(255, 255, 255);
+  background-color: #02090e;
+}
+.bg {
+  background-image: url("../src/images/howth2.jpg");
+  background-color: #02090e;
+  height: 100%;
+  border-radius: 25px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 590px;
+}
+.searchForm {
+  margin-top: 40px;
+}
+.weatherContainer {
+  margin: 30px 20px;
+}
+.weatherCity {
+  font-size: 50px;
+  text-align: center;
+}
+
+.weatherTemperature {
+  font-size: 100px;
+  text-align: center;
+  margin-top: 40px;
+}
+.colTemperature {
+  text-align: center;
+}
+.colIcon {
+  text-align: center;
+}
+.alert {
+  width: 100%;
+}
+.weatherHumidity .weatherPressure {
+  font-size: 20px;
+}
+.weatherDescription {
+  font-size: 20px;
+}
+.iconImage {
+  width: 255px;
+}
+.infoRow {
+  margin-top: 35px;
+  text-align: center;
+}
+.footer {
+  font-size: 15px;
+  margin-top: 15px;
+}
