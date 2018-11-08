@@ -3,7 +3,8 @@ import "./App.css";
 import Search from "./components/Search";
 import Weather from "./components/Weather";
 
-const Api_Key = "b975eac6455a5e8f3d86b9260eca4bf9";
+const Api_Key = "----";
+// get your API KEY : https://openweathermap.org/
 
 class App extends Component {
   state = {
